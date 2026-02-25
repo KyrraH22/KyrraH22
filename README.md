@@ -1,7 +1,12 @@
 <!--**KyrraH22/KyrraH22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-# Olá! Eu me chamo: Ademir Wolter Voigt 👋
-# Nickname: KyrraH22 
+# Olá! Bem Vindo(a) ao meu perfil
+Meu nome: 
+# Ademir Wolter Voigt 👋
+*******************************************
+Muito conhecido também por:
+# KyrraH22 
+*******************************************
 
 ### 🚀 Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e experiências digitais excepcionais
 
