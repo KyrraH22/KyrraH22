@@ -3,10 +3,9 @@
 # Olá! Bem Vindo(a) ao meu perfil
 Meu nome: 
 # Ademir Wolter Voigt 👋
-*******************************************
+
 Muito conhecido também por:
 # KyrraH22 
-*******************************************
 
 ### 🚀 Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e experiências digitais excepcionais
 
