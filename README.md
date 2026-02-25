@@ -1,16 +1,16 @@
 <!--**KyrraH22/KyrraH22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-# Olá! Bem Vindo(a) ao meu perfil
+# Olá! Bem Vindo(a) ao meu perfil 👋
 Meu nome: 
-# Ademir Wolter Voigt 👋
+# 🎯 Ademir Wolter Voigt 🌟
 
 Muito conhecido também por:
-# KyrraH22 
+# 🎯 KyrraH22 🌟
 
 ### 🚀 Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e experiências digitais excepcionais
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;A+2026+entrada+nos+estudos+DevClub;+Apaixonado+por+tecnologia&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🌟Full+Stack+Developer;+🌟2026+entrada+nos+estudos+DevClub;+🌟Apaixonado+por+tecnologia&font=Fira%20Code&center=true&width=380&height=50">
 </div>
 
 ## 🛠️ Tech Stack
