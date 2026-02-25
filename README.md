@@ -10,7 +10,7 @@ Muito conhecido também por:
 ### 🚀 Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e experiências digitais excepcionais
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🌟Full+Stack+Developer;+2026%2B+entrada+nos+estudos+DevClub+⏳;+🌟Apaixonado+por+tecnologia&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🌟Full+Stack+Developer;+%2B2026+entrada+nos+estudos+DevClub+⏳;+🌟Apaixonado+por+tecnologia&font=Fira%20Code&center=true&width=380&height=50">
 </div>
 
 ## 🛠️ Tech Stack
