@@ -1,4 +1,4 @@
-**KyrraH22/KyrraH22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**KyrraH22/KyrraH22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 # Olá! Eu sou Ademir Wolter Voigt 👋
 # KyrraH22 
