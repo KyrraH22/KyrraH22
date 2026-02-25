@@ -1,28 +1,12 @@
-## Hi there 👋
-
-
 **KyrraH22/KyrraH22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-*****************************************************************************************************************************
-
 # Olá! Eu sou Ademir Wolter Voigt 👋
-Apelido: KyrraH22
+# KyrraH22 👋
 
 ### 🚀 Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e experiências digitais excepcionais
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;+4%2B+anos+de+experiência;+Apaixonado+por+tecnologia&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;2026%2B+entrada+nos+estudos+DevClub;+Apaixonado+por+tecnologia&font=Fira%20Code&center=true&width=380&height=50">
 </div>
 
 ## 🛠️ Tech Stack
