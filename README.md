@@ -41,6 +41,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyrraH22&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<!--
 ## 🔥 Projetos em Destaque
 {(Em edição)}
 ### [Nome do Projeto 1]
@@ -65,6 +66,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ademir.voigt@ulbra.edu.br)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/AdemirVoigt)
 
+-->
 ## 🎯 Curiosidades sobre mim
 
 - 🌱 Atualmente estou estudando programação para me tornar um *fullstack* com foco primário em *frondend*
