@@ -67,15 +67,15 @@
 
 ## 🎯 Curiosidades sobre mim
 
-- 🌱 Atualmente estou estudando **GraphQL** e **Kubernetes**
-- 👯 Estou aberto a colaborar em projetos open source
+- 🌱 Atualmente estou estudando programação para me tornar um *fullstack* com foco primário em *frondend*
+- 👯 Estou aberto a colaborar em projetos livres para troca de experiências.
 - 💬 Me pergunte sobre **desenvolvimento web, carreira em tecnologia** 
 - ⚡ Fun fact: Amo café ☕ e jogos 🎮
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=KyrraH22&color=blue" alt="Profile views"/>
   
   **⭐️ Deixe uma estrela nos repositórios que você gostar!**
 </div>
